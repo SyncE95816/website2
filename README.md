@@ -24,6 +24,9 @@ copy the links they present back into the command line:
 
 save images in image directory
 
-*
-git add -A  (to add new image, README and about!!)
-*
+*git add -A  (to add new image, README and about!!)*
+
+[website2 (master)]$ git commit -am "Add README and about"
+[master dc28096] Add README and about
+
+[website2 (master)]$ git push
